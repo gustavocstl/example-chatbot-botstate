@@ -9,7 +9,7 @@ go run main.go
 
 API listen default port `8000`.
 
-This example use [go-redis](https://github.com/go-redis/redis) to save conversation data.
+This example use [go-redis](https://github.com/go-redis/redis) to save conversation data. See [bot.go](https://github.com/gucastiliao/example-chatbot-botstate/blob/master/pkg/bot/bot.go#L50)
 
 ---
 
