@@ -2,6 +2,8 @@
 
 A simple chatbot API to show how [botstate](https://github.com/gucastiliao/botstate/) works.
 
+To see this chatbot working [https://web-chatbot-botstate.herokuapp.com/](https://web-chatbot-botstate.herokuapp.com/)
+
 ## Start API
 ```
 go run main.go
